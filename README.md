@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kritiketan.
 - 👀 I’m interested in building amazing products.
-- 🌱 I’m currently learning machine learning, AWS and GraphQL.
+- 🌱 I’m currently learning Machine learning, AWS and GraphQL.
 - 💞️ I’m looking to collaborate on serverless applications 
-- 📫 Reach me @ https://kritiketan.co
+- 📫 Reach me @ kritiketan.sharma@outlook.com
 
 
 <!---
